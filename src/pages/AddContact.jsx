@@ -65,7 +65,7 @@ export const AddContact = () => {
         </form>
 
         <Link to="/">
-          <a className="d-flex align-items-start">Retornar al Home</a>
+          <a className="d-flex align-items-start">Back Home</a>
         </Link>
 
 
